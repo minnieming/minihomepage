@@ -82,3 +82,6 @@ git push origin main
 
 ## footer
 - footer.md 추가
+
+## sidebar
+- 사이드바 추가
