@@ -85,3 +85,6 @@ git push origin main
 
 ## sidebar
 - 사이드바 추가
+
+## search 
+- search 추가
